@@ -1,4 +1,4 @@
-# FATE
+# FATE (Field Aeolian Transport Events)
 repository for 'Circadian rhythm of dune-field activity driven by atmospheric stability', Gunn et al. 2019
 
 # suppvideo1.mov 
