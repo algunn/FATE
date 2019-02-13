@@ -1,5 +1,5 @@
 # FATE (Field Aeolian Transport Events)
-repository for 'Circadian rhythm of dune-field activity driven by atmospheric stability', Gunn et al. 2019
+repository for 'Circadian rhythm of dune-field activity', Gunn et al. 2019
 
 # suppvideo1.mov 
 is the video for Supplemental Video 1 which has the caption:
