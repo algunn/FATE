@@ -1,5 +1,6 @@
 # FATE (Field Aeolian Transport Events)
 repository for 'Circadian rhythm of dune-field activity', Gunn et al. 2020
+GRL submission release: [![DOI](https://zenodo.org/badge/159052721.svg)](https://zenodo.org/badge/latestdoi/159052721)
 
 # suppvideo1.mov 
 is the video for Supplemental Video 1 which has the caption:
